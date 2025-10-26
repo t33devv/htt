@@ -6,7 +6,7 @@
   "name": "Hit The Target",
   "description": "Hit The Moving Targets With Bullets!",
   "version": "1.0.0",
-  "author": "bencoding",
+  "author": "t33dev",
   "icons": { "128": "icon.png" },
   "browser_action": {
     "default_icon": "icon.png",
